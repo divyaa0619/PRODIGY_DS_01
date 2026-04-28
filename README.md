@@ -24,3 +24,10 @@ To visualize the distribution of population across countries using histogram and
 - Population distribution is highly skewed
 - A few countries like India and China dominate global population
 - Most countries have relatively smaller populations
+
+## 📷 Output
+📊 Population Distribution (Histogram)
+<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/8fa1dfd1-24ee-4f86-8a7c-09da85a90cc5" />
+
+📊 Top 10 Most Populated Countries (Bar Chart)
+<img width="567" height="517" alt="image" src="https://github.com/user-attachments/assets/cc6c1b2d-be5e-4ba3-9a2d-a8ef50ce2593" />
